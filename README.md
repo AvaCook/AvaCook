@@ -1,6 +1,6 @@
 # Hi, I’m Ava 👋
 
-I’m a Computer Science and Data Science student with a strong interest in software engineering, data-driven systems, and responsible use of AI. I enjoy building full-stack applications, designing reliable backend systems, and turning data into clear, actionable insights.
+I’m a Computer Science and Data Science student with a strong interest in software engineering, data-driven systems, interactive visualizations and responsible use of AI. I enjoy building full-stack applications, designing reliable backend systems, and turning data into clear, actionable insights.
 
 🎓 **B.S. in Computer Science & Data Science**, Minor in Management  
 🌏 **Study Abroad:** University of Newcastle, Australia  
